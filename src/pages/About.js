@@ -26,8 +26,8 @@ export function Page()
        // <div>
        //<>
        <Fragment>
-            <h1>this is first page</h1>
-            <h1>heading one</h1>
+            <h1 className="bg-info">this is first page</h1>
+            <h1 className="bg-warning text-center">heading one</h1>
             </Fragment>
       // </>
        // </div>
